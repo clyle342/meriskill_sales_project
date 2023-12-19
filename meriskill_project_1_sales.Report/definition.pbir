@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../meriskill_project_1_sales.Dataset"
+    },
+    "byConnection": null
+  }
+}
